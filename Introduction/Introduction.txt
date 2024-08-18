@@ -1,0 +1,4 @@
+Programs : Set of instructions are called programs.
+
+Tokens : Tokens are the smallest unit of programms are called tokens.
+
