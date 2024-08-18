@@ -1,8 +1,9 @@
 #include<stdio.h>
 
 int main(){
-	int x = 65;
-	char character = (char) x;
-	printf("%c",character);
+	int x ;
+	printf("Enter a number : ");
+	scanf("%d",&x);
+	printf("The square will be : %d ",x*x);
 	return 0;
 }
